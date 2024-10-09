@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viniresemrosa
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python, Javascript and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: viniresemrosa@gmail.com
 - 😄 Pronouns: ...
