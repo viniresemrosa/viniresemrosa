@@ -34,26 +34,15 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Job Listing Filter** | Automates job discovery and applies AI-based relevance filtering to job postings | Java, OpenAI API |
-| *(add your next project here)* | | |
-
-> 💡 Add real links to these repos once they're pushed — recruiters click through fast, so make sure each has a clear README and a working demo/screenshot.
-
----
-
 ### 🧭 Why AI Engineering
 
 I spent time in administrative and accounting environments before moving into software — which means I don't just write code, I recognize manual, repetitive processes that are ripe for automation. Now I'm combining that with backend development and LLM integration to build tools that actually save people time.
 
 ### 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-site.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniresemrosa)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:viniresemrosa@gmail.com)
+
 
 ---
 
