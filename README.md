@@ -46,5 +46,5 @@ I spent time in administrative and accounting environments before moving into so
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=viniresemrosa&show_icons=true&theme=default&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=viniresemrosa&hide_border=true" width="48%" />
